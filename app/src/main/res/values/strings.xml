@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Project - TSF</string>
+
+
+    <string name="facebook_app_id">263917365807989</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">be71fd24f605a2f1fa34afbf38ad9bc1</string>
+
+
+</resources>
